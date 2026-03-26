@@ -8,7 +8,7 @@
   "server": {
     "ip": "INFAMOUSMASTER199.aternos.me",
     "port": 31436,
-    "version": "1.21.1"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,11 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Its me amith",
+        "I like to play Minecraft!",
+        "Nathan is trash",
+        "Nazi germany",
+        "mother russia"
       ]
     },
     "chat-log": true,
